@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0/Downloads/%D1%81%D1%83%D0%BA%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82"
+    "publishPath": "file:///F:/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F"
   },
   "pages": {
     "index.html": {
@@ -26,6 +26,18 @@
           "_inherit": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H1": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "left",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "header4-2",
           "_params": {
             "parallax": true,
@@ -48,19 +60,7 @@
           },
           "title": "5 ПРИЧИН ПОСТАВИТЬ МНЕ ЗАЧЕТ",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "H1": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "text-align": "left",
-              "font-size": "48px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -108,7 +108,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1920x1416-58.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1920x1416-28.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -215,7 +215,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1920x1416-51.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1920x1416-27.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -292,7 +292,7 @@
           "title": "КРОШКИ ЧАСТИЧКИ",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Я познала микрокосмос, благодаря Particles.js.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">подробнее</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://kanerinamironova.github.io/pik/\" data-toolbar=\"-mbrBtnMove\">подробнее</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -352,7 +352,7 @@
           "title": "СТРАННЫЙ ШРИФТ",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Я придумала и создала свой индивидуальный шрифт",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">скачать</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"KanerinaMironova.github.io/МОЙ ШРИФТ.otf\" data-toolbar=\"-mbrBtnMove\">скачать</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -397,7 +397,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1920x1416-18.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1920x1416-36.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -534,6 +534,17 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#848484",
+              "text-align": "right"
+            },
+            "H1": {
+              "color": "#848484",
+              "font-size": "48px",
+              "text-align": "right"
+            }
+          },
           "_params": {
             "autoplay": true,
             "slides": [
@@ -578,18 +589,7 @@
             "showBullets": true
           },
           "_anchor": "slider-21",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#848484",
-              "text-align": "right"
-            },
-            "H1": {
-              "color": "#848484",
-              "font-size": "48px",
-              "text-align": "right"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
